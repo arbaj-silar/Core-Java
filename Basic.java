@@ -8,7 +8,6 @@ public class Basic {
         byte by = 127;
         short sh = 178;
         long l = 890;
-
         // Float Data types : float, double
 
         float f = 3.9f;
